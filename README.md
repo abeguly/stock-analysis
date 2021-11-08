@@ -21,4 +21,4 @@ Advantages:
 
 Disadvantages:
 * Code can get over-complicated
-* Hard to read a code and fix a code
+* Can be hard to read and fix a code
