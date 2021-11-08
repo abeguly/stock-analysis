@@ -13,11 +13,11 @@ The following projects represent the analysis of the stock market for 12 stocks 
 
 
 ## Summary
-Refactoring can have both advantages and disadvantages:
+We sumamrized below advatages and disadvantages of refactoring in general and for VBA script.
 
-    Advantages:
-    * Faster results
-    * Run for a bigger population
+Advantages:
+* Faster results
+* Run for a bigger population
 
-  Disadvantages:
-    * Code can get over-complicated
+Disadvantages:
+* Code can get over-complicated
